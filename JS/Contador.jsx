@@ -1,7 +1,7 @@
 const Contador = () => {
   return (
     <div>
-      <h2>NON</h2>
+      <h2 class="menor">NON</h2>
     </div>
   );
 };
